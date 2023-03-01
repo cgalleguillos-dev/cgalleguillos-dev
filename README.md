@@ -1,3 +1,6 @@
+
+<h1 class="title-custom-h1" align="center">Hi 👋, I'm Cristian Galleguillos</h1>
+<h3 class="title-custom-h3" align="center">A passionate fullstack developer from Chile</h3>
 <style>
     .link-icon {
         width: 40px;
@@ -40,9 +43,6 @@
         }
     }
 </style>
-<h1 class="title-custom-h1" align="center">Hi 👋, I'm Cristian Galleguillos</h1>
-<h3 class="title-custom-h3" align="center">A passionate fullstack developer from Chile</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cristian galleguillos araya" target="blank"><img class="link-icon" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian galleguillos araya" height="30" width="40" /></a>
