@@ -1,57 +1,6 @@
-<svg fill="none" viewBox="0 0 600 800" width="600" height="800" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-     <style>
-        .link-icon {
-            width: 40px;
-            height: 40px;
-            margin: 0 5px;
-            transition: all 0.3s ease-in-out;
-        }
-        .link-icon:hover {
-            animation: pulse 1s infinite;
-        }
-        @keyframes pulse {
-            0% {
-                transform: scale(1);
-            }
-            50% {
-                transform: scale(1.1);
-            }
-            100% {
-                transform: scale(1);
-            }
-        }
-        .title-custom-h1 {
-            animation: typing 3s steps(60, end) infinite;
-            overflow: hidden;
-            white-space: nowrap;
-            border-right: 3px solid #fff;
-        }
-        .title-custom-h3{
-            animation: typing 3s steps(60, end);
-            overflow: hidden;
-            white-space: nowrap;
-            border-right: 3px solid #fff;
-        }
-        @keyframes typing {
-            from {
-                width: 0;
-            }
-            to {
-                width: 100%;
-            }
-        }
-        .container {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-    </style>
-    <div class="container">
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+  <div class="container">
         <h1 class="title-custom-h1" align="center">Hi 👋, I'm Cristian Galleguillos</h1>
         <h3 class="title-custom-h3" align="center">A passionate fullstack developer from Chile</h3>
         <h3 align="left">Connect with me:</h3>
@@ -108,6 +57,4 @@
             <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img class="link-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
         </p>
       </div>
-    </div>
-  </foreignObject>
-</svg>
+</div>
