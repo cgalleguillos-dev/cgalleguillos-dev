@@ -5,7 +5,6 @@
             <a href="https://linkedin.com/in/cristian galleguillos araya" target="blank"><img class="link-icon" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian galleguillos araya" height="30" width="40" /></a>
         </p>
         <h2>Skills</h2>
-    
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
