@@ -7,7 +7,6 @@
         <h2>Skills</h2>
     
       <div class="custom-container"
-    style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;"
 >
 <h3 align="left">Languages:</h3>
 <p align="left">
