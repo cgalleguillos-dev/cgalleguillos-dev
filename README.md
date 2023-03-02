@@ -1,11 +1,13 @@
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-  <div class="container">
         <h3 align="left">Connect with me:</h3>
         <p align="left">
             <a href="https://linkedin.com/in/cristian galleguillos araya" target="blank"><img class="link-icon" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian galleguillos araya" height="30" width="40" /></a>
         </p>
         <h2>Skills</h2>
+    <div class="custom-container"
+    style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;"
+>
         <h3 align="left">Languages:</h3>
         <p align="left">
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
