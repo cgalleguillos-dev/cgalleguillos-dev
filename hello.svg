@@ -23,8 +23,12 @@
             }
         }
         @media (prefers-color-scheme: dark) {
-            h1, h2 {
-            color: #fffff;     
+         .title-custom-h1 {
+            color: #fff;
+        }
+        .title-custom-h3{
+            color: #fff;
+        }
        }
         }
     </style>
