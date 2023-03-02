@@ -6,7 +6,7 @@
         </p>
         <h2>Skills</h2>
     
-      <div class="custom-container"
+      <div
 >
 <h3 align="left">Languages:</h3>
 <p align="left">
