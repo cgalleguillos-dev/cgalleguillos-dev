@@ -23,9 +23,9 @@
             }
         }
         @media (prefers-color-scheme: dark) {
-            body {
-                color: #fff;
-            }
+            h1, h2 {
+            color: #fffff;     
+       }
         }
     </style>
     <div class="container">
